@@ -20,7 +20,13 @@ Get up and running with FictiveApp in just a few minutes!
 
 ### Installation
 
-First, clone the repository to your local machine:
+First, install new ubtunu server on physical station(recommanded) or on virtual machine : https://ubuntu.com/download/server
+
+
+clone the repository to your local server:
+
+```bash
+sudo apt install -y curl
 
 ```bash
 git clone https://github.com/knossnetwork/KnossCom.git
