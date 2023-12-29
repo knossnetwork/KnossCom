@@ -27,7 +27,7 @@ clone the repository to your local server:
 
 ```bash
 sudo apt install -y curl
-
+   
 
 
 ```bash
