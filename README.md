@@ -1,4 +1,4 @@
-# FictiveApp
+# Knoss command
 
 Welcome to FictiveApp, the next-generation solution for solving modern problems! FictiveApp leverages cutting-edge technology to provide users with an unparalleled experience.
 
