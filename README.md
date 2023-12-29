@@ -26,6 +26,9 @@ Then, clone the repository to your local server:
 
 ```bash
 sudo apt install -y curl
+'''
+
+
 # Now clone the repository
 git clone https://github.com/knossnetwork/KnossCom.git
 
