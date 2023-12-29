@@ -23,4 +23,4 @@ Get up and running with FictiveApp in just a few minutes!
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/FictiveApp.git
+[git clone https://github.com/yourusername/FictiveApp.git](https://github.com/knossnetwork/KnossCom.git)
